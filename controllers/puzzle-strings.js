@@ -20,3 +20,5 @@ export const puzzlesAndSolutions = [
     '827549163531672894649831527496157382218396475753284916962415738185763249374928651'
   ]
 ];
+
+module.exports = { puzzlesAndSolutions };
